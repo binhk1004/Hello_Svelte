@@ -1,5 +1,5 @@
 <script>
-    import Child from './Child.svelte';
+    import Child from '../Study_Store/Child.svelte';
 </script>
 
 <div>
